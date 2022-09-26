@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Clover.
+   * Recode By Clover
+   * Contact Me on wa.me/6285158121779
+   * Follow https://github.com/CloverGameSpot1 
 */
 
 const fs = require('fs')
@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
-global.sessionName = 'nazedev'
+global.owner = ['6285158121778']
+global.ownernomer = "6285158121779"
+global.premium = ['6285158121779']
+global.packname = 'Sticker  Clover'
+global.author = 'Clover'
+global.sessionName = 'Clover'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
