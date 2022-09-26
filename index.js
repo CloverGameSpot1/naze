@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Clover.
+   * Recode By Clover
+   * Contact Me on wa.me/6285158121779
+   * Follow https://github.com/CloverGameSpot1 
 */
 
 require('./config')
